@@ -1,0 +1,1 @@
+Pentru realizarea bonusului am folosit majoritatea regulilor gramatici explicate si prezentate in enuntul temei ca reguli pentru parser-ul antlr, afisarea am implementat-o folosind exemplul primit inloc de afisare am afisat in fisierul arbore. 
